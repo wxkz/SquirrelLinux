@@ -1,22 +1,22 @@
 <div class="sidebar">
-  <a href=""><img id="sidebarlogo" src="/images/small_logo.png"></a>
+  <a href="/index.php"><img id="sidebarlogo" src="/images/small_logo.png"></a>
   <span class="introtext">About</span><br/>
-  <a class="sidebarlink" href="">History</a><br/>
-  <a class="sidebarlink" href="">Features</a><br/>
-  <a class="sidebarlink" href="">Performance</a><br/>
-  <a class="sidebarlink" href="">Team</a><br/>
-  <a class="sidebarlink" href="">Images</a><br/>
+  <a class="sidebarlink" href="/pages/history.php">History</a><br/>
+  <a class="sidebarlink" href="/pages/features.php">Features</a><br/>
+  <a class="sidebarlink" href="/pages/performance.php">Performance</a><br/>
+  <a class="sidebarlink" href="/pages/team.php">Team</a><br/>
+  <a class="sidebarlink" href="/pages/images.php">Images</a><br/>
   <br/>
   <span class="introtext">Community</span><br/>
-  <a class="sidebarlink" href="">Download</a><br/>
+  <a class="sidebarlink" href="/pages/download.php">Download</a><br/>
   <a class="sidebarlink" href="/pages/forum.php">Forum</a><br/>
-  <a class="sidebarlink" href="">Mirrors</a><br/>
-  <a class="sidebarlink" href="">Documentation</a><br/>
-  <a class="sidebarlink" href="">Mailing Lists</a></span><br/>
-  <a class="sidebarlink" href="">Source</a><br/>
-  <a class="sidebarlink" href="">Commercial</a></span><br/>
-  <a class="sidebarlink" href="">Donations</a></span><br/>
-  <a class="sidebarlink" href="">Bugs</a><br/>
+  <a class="sidebarlink" href="/pages/mirrors.php">Mirrors</a><br/>
+  <a class="sidebarlink" href="/pages/documentation.php">Documentation</a><br/>
+  <a class="sidebarlink" href="/pages/mailinglists.php">Mailing Lists</a></span><br/>
+  <a class="sidebarlink" href="/pages/source.php">Source</a><br/>
+  <a class="sidebarlink" href="/pages/commercial.php">Commercial</a></span><br/>
+  <a class="sidebarlink" href="/pages/donations.php">Donations</a></span><br/>
+  <a class="sidebarlink" href="/pages/bugs.php">Bugs</a><br/>
   <br/>
   <span class="introtext">Security</span><br/>
   <a class="sidebarlink" href="">PGP Keys</a>
