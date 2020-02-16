@@ -1,0 +1,45 @@
+#forum_list {
+    flex-shrink: 4;
+}
+
+#forum_content {
+  flex-grow: 1;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+#forum_info {
+    flex-shrink: 4;
+}
+
+#new_topic{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+#new_topic > input, button, a {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+table {
+  margin: 0px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+tr {
+  width: 100vw;
+}
+
+th {
+  width: 100vw;
+  padding: 5px;
+  text-align: left;
+}
+
+textarea {
+  height: 150px;
+  resize: none;
+}
