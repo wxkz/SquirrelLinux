@@ -1,5 +1,5 @@
 <h1>Ground Squirrel Linux</h1>
-Release date (11/08/2020) - (11/01/2021)
+Release date (11/08/2020) - (11/01/2021)<br>
 Beta release (11/06/2020) - (11/08/2020)
 
 
@@ -12,28 +12,28 @@ Beta release (11/06/2020) - (11/08/2020)
 * <b>SPM - Squirrel Packet Manager</b><br>
 Low level packet manager
 
-* SQUIRREL - Packet Manager written in C
+* <b>SQUIRREL - Packet Manager written in C</b><br>
 Fast as Pacman but stable as Dnf, Yum, Apt
 
-* .SLP - Squirrel Linux Packet
+* <b>.SLP - Squirrel Linux Packet</b><br>
 Build and distribute, an universal distro packet
 
-* Systemd or SystemV
+* <b>Systemd or SystemV</b><br>
 Under Construction :)
 
-* Minimal and Full installation
+* <b>Minimal and Full installation</b><br>
 For while we don't have netinstall, but it's coming.
 
-* LiveCD
+* <b>LiveCD</b><br>
 With i3wm GSL became the fastest and greatest LiveCD in Linux 
 
-* Linux with a pinch of BSD, Together is better.
+* <b>Linux with a pinch of BSD, Together is better.</b><br>
 Why still using Bash, try out zsh. Maybe Ipfilter ? 
 
-* Ports and Pkg
+* <b>Ports and Pkg</b><br>
 Under Construction :)
 
-* ZFS and Brtfs
+* <b>ZFS and Brtfs</b><br>
 Brtfs by default, but why not Ext4 and ZFS ?
 
 
