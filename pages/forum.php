@@ -50,10 +50,15 @@
           $date = $_POST['date'];
           $user = $_POST['user'];
 
-          $add = mysqli_query($dbconnect, "INSERT INTO topics (subject, description, date, user)
-          VALUES ('$subject', '$description', '$date', '$user')")
-             or die (mysqli_error($dbconnect));
-
+          if (strlen($subject) > 5 && strlen($description) > 10) {
+            $add = mysqli_query($dbconnect, "INSERT INTO topics (subject, description, date, user)
+            VALUES ('$subject', '$description', '$date', '$user')")
+               or die (mysqli_error($dbconnect));
+          } else {
+            echo '<script type="text/JavaScript">
+              alert("Subject has to be greater than 25 characters and Description 20");
+            </script>';
+          }
 
 
         // SHOW DATA
