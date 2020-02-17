@@ -3,11 +3,11 @@ Release date (11/08/2020) - (11/01/2021)<br>
 Beta release (11/06/2020) - (11/08/2020)
 
 
-<h3>* What's Squirrel Linux ? </h3>
+<h3>What's Squirrel Linux ? </h3>
 
-<h3>* Why GSL ? </h3>
+<h3>Why GSL ? </h3>
 
-<h3>* Features </h3>
+<h3>Features </h3>
 
 * <b>SPM - Squirrel Packet Manager</b><br>
 Low level packet manager
